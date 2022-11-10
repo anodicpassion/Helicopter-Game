@@ -4,3 +4,6 @@ Speed of helicopter increases with the increasing score.
 
 I used of Mediapipe framework for the real-time detection of tip of the index finger.
 Also I have made use of OpenCV-Python library.
+
+As the game procceds, the background camera view turns off and an image of buildings appears to make the game bit difficult.
+Your highest score is stored in data.xml file.
